@@ -21,6 +21,8 @@ private:
 	void draw();
 	void unload();
 
+	int timer = 0;
+
 	// // Uncomment for Part 2
 	// // ********************
 	// const int primatives;
